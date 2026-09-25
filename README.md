@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%90%8B+Hello%2C+I'm+Tahsin!;Full-Stack+Web+Developer;Building+Awesome+Websites!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&height=50&lines=Welcome+to+Tahsin's+Profile;Full-Stack+Developer;JavaScript+%7C+Node.js+%7C+React" alt="Typing SVG" />
 </p>
 
 ### 👨‍💻 আমার সম্পর্কে
@@ -10,5 +10,5 @@
 <br/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500" />
 </p>
