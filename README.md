@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=450&lines=Welcome+to+Tahsin's+World;Full-Stack+Developer;Let's+Build+Something+Awesome!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%90%8B+Hello%2C+I'm+Tahsin!;Full-Stack+Web+Developer;Building+Awesome+Websites!" alt="Typing SVG" />
 </p>
 
 ### 👨‍💻 আমার সম্পর্কে
@@ -7,6 +7,8 @@
 - 🛍️ এইচটিএমএল, সিএসএস এবং নোড ডট জেএস দিয়ে ওয়েবসাইট তৈরি করছি।
 - 🎯 আমার লক্ষ্য ওয়েব ডেভেলপমেন্টে আরও নতুন নতুন প্রজেক্ট তৈরি করা।
 
+<br/>
+
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/27702830605923.562a04874c7e6.gif" width="380" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" />
 </p>
